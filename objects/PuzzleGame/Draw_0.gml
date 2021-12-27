@@ -1,0 +1,1 @@
+draw_circle_color(100, 100, 10, $16cbf0, $16cbf0, false)
