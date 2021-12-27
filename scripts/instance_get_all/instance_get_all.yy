@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "window",
-    "path": "folders/Scripts/window.yy",
+    "name": "custom",
+    "path": "folders/Scripts/custom.yy",
   },
   "resourceVersion": "1.0",
-  "name": "window_size_update",
+  "name": "instance_get_all",
   "tags": [],
   "resourceType": "GMScript",
 }

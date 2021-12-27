@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "window",
-    "path": "folders/Scripts/window.yy",
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "window_size_update",
+  "name": "ColorPallete",
   "tags": [],
   "resourceType": "GMScript",
 }

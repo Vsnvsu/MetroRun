@@ -6,7 +6,7 @@
     "path": "folders/Scripts/window.yy",
   },
   "resourceVersion": "1.0",
-  "name": "window_size_update",
+  "name": "window_apply_aa",
   "tags": [],
   "resourceType": "GMScript",
 }
