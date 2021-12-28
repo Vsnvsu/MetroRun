@@ -5,6 +5,7 @@ cam_scale = lerp(cam_scale, max (
 (camera_focus.x2 - camera_focus.x1) /  WindowControl.screen_w, 
 (camera_focus.y2 - camera_focus.y1) /  WindowControl.screen_h, 
 ), .05)
+cam_scale = max(0.5, cam_scale)
 camera_set_view_size(view_camera[0], WindowControl.screen_w * cam_scale, WindowControl.screen_h * cam_scale)
 
 // Позиция камеры

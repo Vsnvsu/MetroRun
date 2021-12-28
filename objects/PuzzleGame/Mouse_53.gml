@@ -1,2 +1,6 @@
-// Тест - создание станций при клике мышки
-pz_create_station(mouse_x, mouse_y, BasicColors[choose(0, 1)])
+with (PuzzleStation) {
+	if (point_distance(x, y, mouse_x, mouse_y) < circle_size * other.dscale) {
+		other.courier_current = cid
+		other.courier_path = [other.courier_current]
+	}
+}

@@ -5,11 +5,21 @@
 globalvar Colors_Background;
 Colors_Background = $FFEBF1F3
 
+globalvar Colors_Outline;
+Colors_Outline = $FFC7CACA
+
+globalvar Colors_Active;
+Colors_Active = $FF282D38
+
 // Заготовка на будущее, если появится необходимость изменять цветовую палитру на лету
 // или редактировать утвержденную цветовую схему
 globalvar BasicColors;
 BasicColors = [
-	$FF2C2FE9,
-	$FF914322,
-	$FF338C00
+	$FFC3C5F2,
+	$FFDECCC1,
+	$FFC8DEBA,
+	$FFF3E3BF
 ]
+
+
+

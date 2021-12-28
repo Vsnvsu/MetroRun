@@ -1,3 +1,1 @@
-draw_set_color(c_black)
-draw_text(20, 20, cam_scale)
-draw_set_color(c_white)
+draw_text_color(20, 20, cam_scale, c_black, c_black, c_black, c_black, 1)

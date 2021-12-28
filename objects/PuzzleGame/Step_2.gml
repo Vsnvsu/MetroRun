@@ -1,4 +1,3 @@
 // Вычесление фокуса камера, выраженной прямоугольной областью с диагональю [x1, y1] -> [x2, y2],
 // которая обязана быть полностью отображенной на экране
-// Тест - в фокус берутся все точки
-camera_focus = pz_update_focus_zone(instance_get_all(PuzzleStation))
+camera_focus = pz_update_focus_zone(pz_focus_next)

@@ -13,6 +13,7 @@
     {"id":{"name":"foreach","path":"scripts/foreach/foreach.yy",},"order":1,},
     {"id":{"name":"draw_wheel_part","path":"scripts/draw_wheel_part/draw_wheel_part.yy",},"order":6,},
     {"id":{"name":"PuzzleStation","path":"objects/PuzzleStation/PuzzleStation.yy",},"order":1,},
+    {"id":{"name":"PuzzleObject","path":"objects/PuzzleObject/PuzzleObject.yy",},"order":2,},
     {"id":{"name":"window_apply_aa","path":"scripts/window_apply_aa/window_apply_aa.yy",},"order":0,},
     {"id":{"name":"MainScreen","path":"rooms/MainScreen/MainScreen.yy",},"order":0,},
   ],
