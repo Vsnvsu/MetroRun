@@ -10,5 +10,6 @@ Colors_Background = $FFEBF1F3
 globalvar BasicColors;
 BasicColors = [
 	$FF2C2FE9,
-	$FF914322
+	$FF914322,
+	$FF338C00
 ]
