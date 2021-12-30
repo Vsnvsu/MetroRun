@@ -1,0 +1,2 @@
+bMenuOpen = false;
+
